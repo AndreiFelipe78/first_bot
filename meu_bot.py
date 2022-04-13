@@ -2,7 +2,7 @@
 from shutil import move
 import telebot
 from telebot import types
-chave_API = '5133410996:AAGgskQbpR1mFnl697FFxMQB8DLH9LtS2f4'
+from credencials import chave_API
 from PIL import Image
 
 
